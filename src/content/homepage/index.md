@@ -13,22 +13,22 @@ feature:
   title: Something You Need To Know
   features:
     - name: "Mood Tracker"
-      icon: "/images/code.svg"
+      icon: "/images/mood-tracker.svg"
       content: "Quick daily check-ins to log your emotions and energy levels, helping you understand your emotional patterns over time."
     - name: "Impulse Management"
-      icon: "/images/oop.svg"
+      icon: "/images/pause.svg"
       content: 'One-touch "Pause Button" for immediate support during overwhelming moments, offering guided grounding exercises and personalized reminders.'
     - name: "Coping Strategies Toolkit"
-      icon: "/images/user-clock.svg"
+      icon: "/images/toolkit.svg"
       content: "Access a library of ADHD-friendly emotion regulation techniques, with personalized suggestions based on your current mood and past preferences."
     - name: "Pattern Recognition"
-      icon: "/images/love.svg"
+      icon: "/images/pattern-recognition.svg"
       content: "AI-powered analysis of your mood data to identify triggers and trends, providing insights to help you better manage your emotions."
     - name: "Progress Tracking"
-      icon: "/images/speedometer.svg"
+      icon: "/images/progress-tracking.svg"
       content: "Monitor your emotional regulation journey with streak tracking, milestone celebrations, and visual representations of your improvements."
     - name: "Customizable Reminders"
-      icon: "/images/cloud.svg"
+      icon: "/images/reminders.svg"
       content: "Set gentle, ADHD-friendly notifications for mood check-ins and reflections, ensuring you stay consistent with your emotional management practice."
 
 # services
