@@ -17,7 +17,7 @@ const {
 } = config.site;
 ---
 
-<a href="/" class="navbar-brand block md:w-[150px] lg:w-auto">
+<a href="/" class="navbar-brand flex md:w-[150px] lg:w-auto items-center">
   {
     src || logo ? (
       <Image
@@ -30,6 +30,7 @@ const {
           width: logo_width.replace("px", "") + "px",
         }}
       />
+      <h1 class="ml-2">{logo_text}</h1>
     ) : logo_text ? (
       logo_text
     ) : (
