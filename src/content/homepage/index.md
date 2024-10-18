@@ -2,7 +2,7 @@
 banner:
   title: Balance your emotions, empower your focus
   content: Kyo is your personal ADHD emotion companion, designed to help you understand and manage your feelings with ease. Track your moods, identify triggers, and access tailored coping strategies – all in one intuitive app. With Kyo, gain insights into your emotional patterns and build the skills to navigate life's ups and downs with confidence.
-  image: /images/banner-art.png
+  image: /images/journalling.svg
   button:
     label: "Contact Us"
     link: "/contact"
@@ -84,8 +84,8 @@ workflow:
 # call_to_action
 call_to_action:
   title: Ready to get started?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
-  image: "/images/cta.png"
+  content: "Get Kyo: Your daily dose of ADHD emotional harmony"
+  image: "/images/ready-to-get-started.svg"
   button:
     enable: true
     label: "Contact Us"
