@@ -5,10 +5,10 @@
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_width": "200",
-    "logo_height": "38",
-    "logo_text": "Astroplate"
+    "logo": "/images/kyo-logo.png",
+    "logo_width": "50",
+    "logo_height": "50",
+    "logo_text": "Kyo"
   },
 
   "settings": {
@@ -26,7 +26,7 @@
   "params": {
     "contact_form_action": "",
     "tag_manager_id": "",
-    "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
+    "footer_content": "Balance your emotions, empower your focus",
     "copyright": "Designed and Developed by James Best of Kyo"
   },
 
