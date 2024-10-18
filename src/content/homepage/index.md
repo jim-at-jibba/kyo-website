@@ -10,7 +10,7 @@ banner:
 
 # feature
 feature:
-  title: Something You Need To Know
+  title: Key Features of Kyo
   features:
     - name: "Mood Tracker"
       icon: "/images/mood-tracker.svg"
