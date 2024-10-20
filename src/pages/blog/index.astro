@@ -44,26 +44,6 @@ const currentPosts = sortedPosts.slice(0, config.settings.pagination);
               )
             }
           </div>
-          <div class="md:col-6">
-            <h2 class="h3 mb-2 mt-4">
-              <a
-                href={`/${blog_folder}/${currentPosts[0].slug}`}
-                class="block hover:text-primary"
-              >
-                {currentPosts[0].data.title}
-              </a>
-            </h2>
-            <p
-              set:html={plainify(currentPosts[0].body.slice(0, summary_length))}
-            />
-            <a
-              class="btn btn-primary mt-4"
-              href={`/${blog_folder}/${currentPosts[0].slug}`}
-              rel=""
-            >
-              Read More
-            </a>
-          </div>
         </div>
         {
           currentPosts.slice(1).map((post) => (
